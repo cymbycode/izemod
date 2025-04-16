@@ -1,5 +1,5 @@
 # izemod
-This is a reupload of The old 1.13 Version of izemod, so people can create izemod 1.21+ out of it
+This is a reupload of The old 1.13 Version of izemod, if anyone needs it xd
 
 
 ![Console](https://i.ibb.co/d66YC0m/image.png "Console")
